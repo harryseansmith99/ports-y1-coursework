@@ -1,0 +1,60 @@
+0,1,27,-,Is Liam in?
+1,2,29,-,Will he let you take his car out for a ride?
+2,3,18,-,Do you need to go and fuel up?
+3,4,35,-,When you are paying for fuel is it the strange cashier?
+4,5,40,-,Does he try to give you flowers again?
+5,37,6,-,Do you take them?
+6,7,42,-,Does he get angry?
+7,8,47,-,Do you argue back at him?
+8,9,12,-,Does he get violent?
+9,51,10,-,Do you defend yourself?
+10,11,50,-,Does anyone else defend you?
+11,53,54,-,Do you make a break for it when the cashier is distracted?
+12,13,49,-,Does the manager come out to talk to you?
+13,14,52,-,Do they argue with you?
+14,15,59,-,Do you try to tell them that it wasn't your fault?
+15,16,56,-,Do they listen?
+16,17,55,-,Do you file a complaint against the cashier?
+17,58,57,-,Does the manager scold them?
+18,19,34,-,Do you speed when driving?
+19,20,36,-,Is there a cop car ahead?
+20,21,24,-,Do you slow down?
+21,22,41,-,Do you make eye contact?
+22,23,43,-,Do you flip him off?
+23,45,44,-,Does he try to pull you over?
+24,25,38,-,Does the cop car start chasing you?
+25,26,39,-,Do you keep on the main road?
+26,46,48,-,Do you hide in the approaching car park?
+27,28,31,-,Is Paul in?
+28,32,33,-,Is he busy?
+29,0,0,Wait until next week to ask again,-
+30,0,0,Ask Liam again next week,-
+31,0,0,Continue waiting for Liam to show up,-
+32,0,0,Keep waiting for Liam,-
+33,30,30,Chat with him until Liam arrives,-
+34,29,29,Drive for 20 mins and go back home,-
+35,30,30,Leave and take car for a spin before going home,-
+36,29,29,Have fun and go home,-
+37,29,29,Laugh at him and go home,-
+38,29,29,Take the nearest diversion and get home ASAP,-
+39,29,29,Lose him on the back road,-
+40,30,30,Continue taking the car for a spin and go home,-
+41,29,29,Keep going and finish your ride,-
+42,30,30,Leave and go for a spin in the car before heading home,-
+43,29,29,Wave and go home,-
+44,29,29,Speed home and lose him,-
+45,29,29,Keep going and go home,-
+46,29,29,Wait 30 mins and discretely drive home,-
+47,30,30,You get freaked out and drive straight home,-
+48,29,29,Lose him in the coming industrial area and get home,-
+49,29,29,Scoff and go out for your drive before driving home,-
+50,30,30,Scream and run away to the car and escape,-
+51,30,30,Fight him off and flea in the car,-
+52,29,29,You get asked to leave and you go home,-
+53,30,30,Get in the car and go home ASAP,-
+54,30,30,Watch the fireworks and go home,-
+55,29,29,Go home and make sure to never set foot in that petrol station again,-
+56,30,30,Storm out and drive home,-
+57,29,29,Flip them both off before leaving to go home,-
+58,30,30,Laugh in the cashier's face and drive home,-
+59,30,30,Just accept their abuse and leave,-
